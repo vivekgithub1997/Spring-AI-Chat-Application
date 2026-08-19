@@ -130,7 +130,7 @@ To exit the model:
 Clone the project:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
+git clone https://github.com/vivekgithub1997/Spring-AI-Chat-Application
 ```
 
 Move into the project directory:
